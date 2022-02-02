@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4&display=swap');
+
+
+
+*{
+    box-sizing: border-box;
+    font-family: 'Source Serif 4', sans-serif;
+    text-align: center;
+    list-style-position: inside;
+}
+    
+header {
+    height: auto;
+    background-color: #8BBEE8FF;
+    background-size: cover;
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+article{
+    margin-bottom: 20px;
+    margin-top: 20px;
+
+}
+
+
+footer {
+    background-color: #8BBEE8FF;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+p{
+    color: black
+    
+}
+
+hr{
+    width: 1000px;
+}
